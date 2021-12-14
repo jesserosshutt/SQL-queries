@@ -1,0 +1,1 @@
+update b1_global_params set parametervalue1 = 'B1' where parametername = 'sourcedatabase' and dataset = 'GL.GL'
