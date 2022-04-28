@@ -9,4 +9,5 @@ WITH (
 GO
 
 
--- Need to create table first including correct columns --
+-- Need to create table first including correct columns
+-- Doesn't work for cloud database
